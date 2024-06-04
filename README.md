@@ -1,5 +1,7 @@
 # Vulnado - Intentionally Vulnerable Java Application
 
+# June 3 change to trigger scan
+
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
 ## Up and running
