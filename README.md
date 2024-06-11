@@ -16,6 +16,7 @@
 # June 11 qa again
 # June 11 qa third
 # June 11 new veracode
+# June 11 this is do do
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
