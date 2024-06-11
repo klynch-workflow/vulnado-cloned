@@ -1,21 +1,5 @@
 # Vulnado - Intentionally Vulnerable Java Application
 
-# June 3 change to trigger scan
-# June 4 change to trigger scan
-# June 4 another change to trigger scan
-# June 4 test
-# June 4 good
-# June 5 first
-# June 5 second
-# June 5 third
-# June 5 fourth
-# June 5 fifth
-# June 7
-# stuff
-# June 11 qa one
-# June 11 qa again
-# June 11 qa third
-
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
 ## Up and running
