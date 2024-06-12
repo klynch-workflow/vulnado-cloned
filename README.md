@@ -21,6 +21,7 @@
 # June 11 give up
 # June 12 happy
 # June 12 try again
+# June 12 results not showing anymore
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
