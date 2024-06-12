@@ -19,6 +19,7 @@
 # June 11 this is do do
 # June 11 maybe not
 # June 11 give up
+# June 12 happy
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
