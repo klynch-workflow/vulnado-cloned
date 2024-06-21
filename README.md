@@ -27,6 +27,9 @@
 # June 21 two
 # June 21 three
 # June 22 four
+# June 22 five
+# June 22 six
+# June 22 seven
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
