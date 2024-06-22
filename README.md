@@ -2,8 +2,6 @@
 
 hello
 
-hello
-
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
 ## Up and running
