@@ -6,6 +6,7 @@ try again
 go
 June 27
 July 17
+July 18
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
