@@ -9,6 +9,7 @@ July 17
 July 18
 July 18 4pm
 midnight
+TGIF
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
