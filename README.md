@@ -1,22 +1,6 @@
 # Vulnado - Intentionally Vulnerable Java Application
 
-hello
-hello hello
-try again
-go
-June 27
-July 17
-July 18
-July 18 4pm
-midnight
-TGIF
-TGIF TGIF
-scantimeout to 5
-scantimeout back to 5
-try again because pipeline failed for some unkown reason
-again
-update version
-new changes
+July 26
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
